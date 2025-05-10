@@ -1,7 +1,7 @@
 
 # Machine Learning Projects
 
-This repository contains a collection of machine learning projects implemented using various models and techniques. Each project is organized in its own directory and includes code, datasets (or links to them), training scripts, evaluation metrics, and results.
+This repository contains a collection of machine learning projects implemented using various models and techniques. Each project is organized in its own file and includes code, datasets (or links to them), training scripts, evaluation metrics, and results.
 
 ## Project Structure
 
@@ -24,13 +24,8 @@ ml-projects/
 │   ├── evaluate.py
 │   ├── README.md
 │
-├── yolov5_object_detection/
-│   ├── dataset/
-│   ├── train.py
-│   ├── yolov5_config.yaml
-│   ├── README.md
 │
-└── README.md
+└── and many more ...
 ```
 
 ## Projects Overview
@@ -38,7 +33,6 @@ ml-projects/
 * **Linear Regression:** Predicting continuous values from datasets using simple linear models.
 * **Decision Tree Classifier:** Training and visualizing decision trees for classification tasks.
 * **CNN Image Classification:** Using Convolutional Neural Networks to classify images (e.g., CIFAR-10, MNIST).
-* **YOLOv5 Object Detection:** Real-time object detection using YOLOv5, including dataset preparation and model fine-tuning.
 
 Each folder includes:
 
